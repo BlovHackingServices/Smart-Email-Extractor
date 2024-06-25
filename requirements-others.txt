@@ -1,0 +1,5 @@
+colorama
+dnspython
+py3-validate-email
+pyautogui
+pillow
